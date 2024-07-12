@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16586069-266f-47cd-9a71-e9fc83090f75" name="Changes" comment="" />
+    <list default="true" id="16586069-266f-47cd-9a71-e9fc83090f75" name="Changes" comment="springboot crud project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
@@ -26,6 +29,7 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2j2ido7lvC9owP91262Lh5ARamm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +43,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.CrudApplication.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/SPRINBOOT PROJECT/CRUD",
     "node.js.detected.package.eslint": "true",
@@ -86,11 +91,35 @@
       <workItem from="1720599922133" duration="10489000" />
       <workItem from="1720669211389" duration="11762000" />
       <workItem from="1720755482778" duration="1264000" />
-      <workItem from="1720757925135" duration="4810000" />
+      <workItem from="1720757925135" duration="5185000" />
     </task>
+    <task id="LOCAL-00001" summary="springboot crud project">
+      <option name="closed" value="true" />
+      <created>1720771844479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720771844479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springboot crud project" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot crud project" />
   </component>
 </project>
